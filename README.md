@@ -1,45 +1,80 @@
-<p align="center"><img width="50%" src="logo/Deeplearningwithtensorflow20c.png" /></p>
+<p align="center"><img width="40%" src="logo/Deeplearningwithtensorflow20c.png" /></p>
 
 <h1 align="center">Deep Learning with Tensorflow 2.0</h1>
 
-
-
-<p>
-    This is the Jupyter notebook version of the Deep Learning with Tensorflow 2.0 by Mukesh Mithrakumar; the content
-    is available <a href="https://github.com/mukeshmithrakumar/DeepLearningWithTF2.0">on GitHub</a> and you can run
-    it in Google Colaboratory as well, the link is provided inside the Jupyter notebook.
-    The code is released under the <a href="https://opensource.org/licenses/MIT">MIT license</a>.<br>
+<p align="center">
+    <a href="https://opensource.org/licenses/MIT">
+        <img src="https://img.shields.io/cocoapods/l/AFNetworking.svg" alt="GitHub">
+    </a>
+    <a href="https://www.python.org/downloads/release/python-360/">
+        <img src="https://img.shields.io/badge/Python-3.6-blue.svg" alt="Python 3.6">
+    </a>
+    <a href="https://www.tensorflow.org/alpha">
+        <img src="https://img.shields.io/badge/Tensorflow-2.0-orange.svg" alt="Python 3.6">
+    </a>
+    <a><img src="https://img.shields.io/badge/Status-Work_In_Progress-yellow.svg" alt="WorkInProgress"></a>
+    <a href="https://www.linkedin.com/in/mukesh-mithrakumar/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue.svg?" alt="LinkedIn">
+    </a>
+    <a href="https://www.facebook.com/adhiraiyan/">
+        <img src="https://img.shields.io/badge/Facebook-brightgreen.svg?" alt="Facebook">
+    </a>
+    <a href="https://twitter.com/MMithrakumar">
+        <img src="https://img.shields.io/badge/Twitter-9cf.svg?" alt="Facebook">
+    </a>
+    <a href="https://www.adhiraiyan.org/">
+        <img src="https://img.shields.io/badge/Adhiraiyan AI Blog-red.svg?" alt="Facebook">
+    </a>
 </p>
 
-<p>
-    If you find this content useful, consider buying me a cup of coffee ☕️😉. <br>
+<p align="center">
+    <a href="#clipboard-getting-started">Getting Started</a> •
+    <a href="#about">About</a> •
+    <a href="#table-of-contents">Table of Contents</a> •
+    <a href="#donate">Donate</a> •
+    <a href="#acknowledgment">Acknowledgment</a> •
+    <a href="#speech_balloon-faq">FAQ</a> •
 </p>
-<div style="padding-top:10px;">
-    <span class="badge-buymeacoffee"><a href="https://buymeacoffee.com/mmukesh"
-            title="Donate to this project using Buy Me A Coffee"><img
-                src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-blue.svg"
-                alt="Buy Me A Coffee donate button" /></a></span>
-    <span class="badge-paypal"><a href="https://paypal.me/mukeshmithrakumar"
-            title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-green.svg"
-                alt="PayPal donate button" /></a></span>
-</div>
+
+<h6 align="center">Made by Mukesh Mithrakumar • :milky_way: <a href="https://mukeshmithrakumar.com">https://mukeshmithrakumar.com</a></h6>
 
 
-<h2 style="padding-top:200px;">Table of Contents</h2>
+This is the GitHub version of the Deep Learning with Tensorflow 2.0 by Mukesh Mithrakumar. Feel free to fork and watch for updates. The upcoming release dates are next to the Chapters.
 
-<a href="00.00-Preface.ipynb">
-    <h2>0. Preface</h2>
-</a>
+If you find this content useful, consider buying me a cup of coffee ☕️😉.
 
-<a href="01.00-Introduction.ipynb">
-    <h2>1. Introduction (05.05.2019)</h2>
-</a>
+<span class="badge-buymeacoffee"><a href="https://buymeacoffee.com/mmukesh"
+        title="Donate to this project using Buy Me A Coffee"><img
+            src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-blue.svg"
+            alt="Buy Me A Coffee donate button" /></a></span>
+
+
+<h2 align="center">:clipboard: Getting Started</h2>
+
+- Read the book in its entirety online at https://www.adhiraiyan.org/books.html
+
+- Run the code using the Jupyter notebooks available in this repository's [notebooks](notebooks) directory.
+
+- Launch executable versions of these notebooks using [Google Colab](http://colab.research.google.com): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/mukeshmithrakumar/DeepLearningWithTF2.0/blob/master/notebooks/00.00-Preface.ipynb)
+
+- (Will Come Live after the Book is finished)Launch a live notebook server with these notebooks using [binder](https://beta.mybinder.org/): [![Binder](https://mybinder.org/badge.svg)]()
+
+
+<h2 align="center">About</h2>
+
+
+
+<h2 align="center">Table of Contents</h2>
+
+## [0. Preface](00.00-Preface.ipynb)
+
+
+## [1. Introduction (05.05.2019)](01.00-Introduction.ipynb)
 <li>01.01 Who should read this book</li>
 <li>01.02 Historical Trends in Deep Learning</li>
 
-<a href="02.00-Linear-Algebra.ipynb">
-    <h2>2. Applied Math and Machine Learning Basics (05.12.2019)</h2>
-</a>
+
+## [2. Applied Math and Machine Learning Basics (05.12.2019)](02.00-Linear-Algebra.ipynb)
 <li>02.01 Scalars, Vectors, Matrices and Tensors</li>
 <li>02.02 Multiplying Matrices and Vectors</li>
 <li>02.03 Identity and Inverse Matrices</li>
@@ -54,9 +89,7 @@
 <li>02.12 Example: Principal Components Analysis</li>
 
 
-<a href="03.00-Probability-and-Information-Theory.ipynb">
-    <h2>3. Probability and Information Theory (05.19.2019)</h2>
-</a>
+## [3. Probability and Information Theory (05.19.2019)](03.00-Probability-and-Information-Theory.ipynb)
 <li>03.01 Why Probability?</li>
 <li>03.02 Random Variables</li>
 <li>03.03 Probability Distributions</li>
@@ -73,9 +106,7 @@
 <li>03.14 Structured Probabilistic Models</li>
 
 
-<a href="04.00-Numerical-Computation.ipynb">
-    <h2>4. Numerical Computation (05.26.2019)</h2>
-</a>
+## [4. Numerical Computation (05.26.2019)](04.00-Numerical-Computation.ipynb)
 <li>04.01 Overflow and Underflow</li>
 <li>04.02 Poor Conditioning</li>
 <li>04.03 Gradient-Based Optimization</li>
@@ -83,9 +114,7 @@
 <li>04.05 Example: Linear Least Squares</li>
 
 
-<a href="05.00-Machine-Learning-Basics.ipynb">
-    <h2>5. Machine Learning Basics (06.02.2019)</h2>
-</a>
+## [5. Machine Learning Basics (06.02.2019)](05.00-Machine-Learning-Basics.ipynb)
 <li>05.01 Learning Algorithms</li>
 <li>05.02 Capacity, Overfitting and Underfitting</li>
 <li>05.03 Hyperparameters and Validation Sets</li>
@@ -99,9 +128,7 @@
 <li>05.11 Challenges Motivating Deep Learning</li>
 
 
-<a href="06.00-Deep-Feedforward-Networks.ipynb">
-    <h2>6. Deep Feedforward Networks (06.09.2019)</h2>
-</a>
+## [6. Deep Feedforward Networks (06.09.2019)](06.00-Deep-Feedforward-Networks.ipynb)
 <li>06.01 Example: Learning XOR</li>
 <li>06.02 Gradient-Based Learning</li>
 <li>06.03 Hidden Units</li>
@@ -110,9 +137,7 @@
 <li>06.06 Historical Notes</li>
 
 
-<a href="07.00-Regularization-for-Deep-Learning.ipynb">
-    <h2>7. Regularization for Deep Learning (06.16.2019)</h2>
-</a>
+## [7. Regularization for Deep Learning (06.16.2019)](07.00-Regularization-for-Deep-Learning.ipynb)
 <li>07.01 Parameter Norm Penalties</li>
 <li>07.02 Norm Penalties as Constrained Optimization</li>
 <li>07.03 Regularization and Under-Constrained Problems</li>
@@ -129,9 +154,7 @@
 <li>07.14 Tangent Distance, Tangent Prop and Manifold Tangent Classifier</li>
 
 
-<a href="08.00-Optimization-for-Training-Deep-Models.ipynb">
-    <h2>8. Optimization for Training Deep Models (06.23.2019)</h2>
-</a>
+## [8. Optimization for Training Deep Models (06.23.2019)](08.00-Optimization-for-Training-Deep-Models.ipynb)
 <li>08.01 How Learning Differs from Pure Optimization</li>
 <li>08.02 Challenges in Neural Network Optimization</li>
 <li>08.03 Basic Algorithms</li>
@@ -141,9 +164,7 @@
 <li>08.07 Optimization Strategies and Meta-Algorithms</li>
 
 
-<a href="09.00-Convolutional-Networks.ipynb">
-    <h2>9. Convolutional Networks (06.30.2019)</h2>
-</a>
+## [9. Convolutional Networks (06.30.2019)](09.00-Convolutional-Networks.ipynb)
 <li>09.01 The Convolution Operation</li>
 <li>09.02 Motivation</li>
 <li>09.03 Pooling</li>
@@ -157,9 +178,7 @@
 <li>09.11 Convolutional Networks and the History of Deep Learning</li>
 
 
-<a href="10.00-Sequence-Modeling-Recurrent-and-Recursive-Nets.ipynb">
-    <h2>10. Sequence Modeling: Recurrent and Recursive Nets (07.07.2019)</h2>
-</a>
+## [10. Sequence Modeling: Recurrent and Recursive Nets (07.07.2019)](10.00-Sequence-Modeling-Recurrent-and-Recursive-Nets.ipynb)
 <li>10.01 Unfolding Computational Graphs</li>
 <li>10.02 Recurrent Neural Networks</li>
 <li>10.03 Bidirectional RNNs</li>
@@ -174,9 +193,7 @@
 <li>10.12 Explicit Memory</li>
 
 
-<a href="11.00-Practical-Methodology.ipynb">
-    <h2>11. Practical Methodology (07.14.2019)</h2>
-</a>
+## [11. Practical Methodology (07.14.2019)](11.00-Practical-Methodology.ipynb)
 <li>11.01 Performance Metrics</li>
 <li>11.02 Default Baseline Models</li>
 <li>11.03 Determining Whether to Gather More Data</li>
@@ -185,9 +202,7 @@
 <li>11.06 Example: Multi-Digit Number Recognition</li>
 
 
-<a href="12.00-Applications.ipynb">
-    <h2>12. Applications (07.21.2019)</h2>
-</a>
+## [12. Applications (07.21.2019)](12.00-Applications.ipynb)
 <li>12.01 Large-Scale Deep Learning</li>
 <li>12.02 Computer Vision</li>
 <li>12.03 Speech Recognition</li>
@@ -195,9 +210,7 @@
 <li>12.05 Other Applications</li>
 
 
-<a href="13.00-Linear-Factor-Models.ipynb">
-    <h2>13. Linear Factor Models (07.28.2019)</h2>
-</a>
+## [13. Linear Factor Models (07.28.2019)](13.00-Linear-Factor-Models.ipynb)
 <li>13.01 Probabilistic PCA and Factor Analysis</li>
 <li>13.02 Independent Component Analysis</li>
 <li>13.03 Slow Feature Analysis</li>
@@ -205,9 +218,7 @@
 <li>13.05 Manifold Interpretation of PCA</li>
 
 
-<a href="14.00-Autoencoders.ipynb">
-    <h2>14. Autoencoders (08.04.2019)</h2>
-</a>
+## [14. Autoencoders (08.04.2019)](14.00-Autoencoders.ipynb)
 <li>14.01 Undercomplete Autoencoders</li>
 <li>14.02 Regularized Autoencoders</li>
 <li>14.03 Representational Power, Layer Size and Depth</li>
@@ -219,9 +230,7 @@
 <li>14.09 Applications of Autoencoders</li>
 
 
-<a href="15.00-Representation-Learning.ipynb">
-    <h2>15. Representation Learning (08.11.2019)</h2>
-</a>
+## [15. Representation Learning (08.11.2019)](15.00-Representation-Learning.ipynb)
 <li>15.01 Greedy Layer-Wise Unsupervised Pretraining</li>
 <li>15.02 Transfer Learning and Domain Adaptation</li>
 <li>15.03 Semi-Supervised Disentangling of Causal Factors</li>
@@ -230,9 +239,7 @@
 <li>15.06 Providing Clues to Discover Underlying Causes</li>
 
 
-<a href="16.00-Structured-Probabilistic-Models-for-Deep-Learning.ipynb">
-    <h2>16. Structured Probabilistic Models for Deep Learning (08.18.2019)</h2>
-</a>
+## [16. Structured Probabilistic Models for Deep Learning (08.18.2019)](16.00-Structured-Probabilistic-Models-for-Deep-Learning.ipynb)
 <li>16.01 The Challenge of Unstructured Modeling</li>
 <li>16.02 Using Graphs to Describe Model Structure</li>
 <li>16.03 Sampling from Graphical Models</li>
@@ -242,9 +249,7 @@
 <li>16.07 The Deep Learning Approach to Structured Probabilistic Models</li>
 
 
-<a href="17.00-Monte-Carlo-Methods.ipynb">
-    <h2>17. Monte Carlo Methods (08.25.2019)</h2>
-</a>
+## [17. Monte Carlo Methods (08.25.2019)](17.00-Monte-Carlo-Methods.ipynb)
 <li>17.01 Sampling and Monte Carlo Methods</li>
 <li>17.02 Importance Sampling</li>
 <li>17.03 Markov Chain Monte Carlo Methods</li>
@@ -252,9 +257,7 @@
 <li>17.05 The Challenge of Mixing between Separated Modes</li>
 
 
-<a href="18.00-Confronting-the-Partition-Function.ipynb">
-    <h2>18. Confronting the Partition Function (09.01.2019)</h2>
-</a>
+## [18. Confronting the Partition Function (09.01.2019)](18.00-Confronting-the-Partition-Function.ipynb)
 <li>18.01 The Log-Likelihood Gradient</li>
 <li>18.02 Stochastic Maximum Likelihood and Contrastive Divergence</li>
 <li>18.03 Pseudolikelihood</li>
@@ -264,9 +267,7 @@
 <li>18.07 Estimating the Partition Function</li>
 
 
-<a href="19.00-Approximate-Inference.ipynb">
-    <h2>19. Approximate Inference (09.08.2019)</h2>
-</a>
+## [19. Approximate Inference (09.08.2019)](19.00-Approximate-Inference.ipynb)
 <li>19.01 Inference as Optimization</li>
 <li>19.02 Expectation Maximization</li>
 <li>19.03 MAP Inference and Sparse Coding</li>
@@ -274,9 +275,7 @@
 <li>19.05 Learned Approximate Inference</li>
 
 
-<a href="20.00-Deep-Generative-Models.ipynb">
-    <h2>20. Deep Generative Models (09.15.2019)</h2>
-</a>
+## [20. Deep Generative Models (09.15.2019)](20.00-Deep-Generative-Models.ipynb)
 <li>20.01 Boltzmann Machines</li>
 <li>20.02 Restricted Boltzmann Machines</li>
 <li>20.03 Deep Belief Networks</li>
@@ -292,3 +291,32 @@
 <li>20.13 Other Generation Schemes</li>
 <li>20.14 Evaluating Generative Models</li>
 <li>20.15 Conclusion</li>
+
+
+<h2 align="center">Donate</h2>
+
+<h3>Who Am I?</h3>
+
+I'm a freelancer living in Chengdu, China. I mostly do front-end and Node.js stuffs and love them 💕
+
+Currently I'm making lots of front-end components, tools, Node.js libraries, websites and apps to help people solve problems, if you enjoy my works please consider making a donation. My ultimate goal is to become a full-time open-source ninja.
+
+3 years ago I started devoting my time to open-source for fun, but things have changed a lot over time. Now I have a day job and I can't spend that much time in open-source anymore. But here's a way to work around this, which is, becoming my patron to fulfill my dream of doing full-time open-source:
+
+
+- Donate via Paypal <span class="badge-paypal"><a href="https://paypal.me/mukeshmithrakumar" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-green.svg" alt="PayPal donate button" /></a></span>
+
+- Become a Patreon <span class="badge-patreon"><a href="https://patreon.com/mukeshmithrakumar" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-orange.svg" alt="Patreon donate button" /></a></span>
+
+- Donate via flattr <span class="badge-flattr"><a href="https://flattr.com/profile/mukeshmithrakumar" title="Donate to this project using Flattr"><img src="https://img.shields.io/badge/flattr-donate-brightgreen.svg" alt="Flattr donate button" /></a></span>
+
+- Donate via liberpay <a href="https://liberapay.com/mmukesh/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+
+- Donate via Buy me a Cofee <span class="badge-buymeacoffee"><a href="https://buymeacoffee.com/mmukesh" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-brightgreen.svg" alt="Buy Me A Coffee donate button" /></a></span>
+
+
+<h2 align="center">Acknowledgment</h2>
+
+
+
+<h2 align="center">:speech_balloon: FAQ</h2>
