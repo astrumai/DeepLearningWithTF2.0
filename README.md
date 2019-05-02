@@ -57,14 +57,16 @@ If you find this content useful, consider buying me a cup of coffee ☕️😉.
 
 - Launch executable versions of these notebooks using [Google Colab](http://colab.research.google.com): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/00.00-Preface.ipynb)
 
-- (Will Come Live after the Book is finished)Launch a live notebook server with these notebooks using [binder](https://beta.mybinder.org/): [![Binder](https://mybinder.org/badge.svg)]()
+- (Will Come Live after the Book is finished) Launch a live notebook server with these notebooks using [binder](https://beta.mybinder.org/): [![Binder](https://mybinder.org/badge.svg)]()
 
 
 <h2 align="center">About</h2>
 
+This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Courville's [Deep Learning](https://www.deeplearningbook.org/) with Tensorflow 2.0. Please see below for the table of contents.
 
 
 <h2 align="center">Table of Contents</h2>
+<p align="right"><a href="#DeepLearningwithTensorflow2.0"><sup>▴ Back to top</sup></a></p>
 
 ## [0. Preface](00.00-Preface.ipynb)
 
@@ -294,15 +296,7 @@ If you find this content useful, consider buying me a cup of coffee ☕️😉.
 
 
 <h2 align="center">Donate</h2>
-
-<h3>Who Am I?</h3>
-
-I'm a freelancer living in Chengdu, China. I mostly do front-end and Node.js stuffs and love them 💕
-
-Currently I'm making lots of front-end components, tools, Node.js libraries, websites and apps to help people solve problems, if you enjoy my works please consider making a donation. My ultimate goal is to become a full-time open-source ninja.
-
-3 years ago I started devoting my time to open-source for fun, but things have changed a lot over time. Now I have a day job and I can't spend that much time in open-source anymore. But here's a way to work around this, which is, becoming my patron to fulfill my dream of doing full-time open-source:
-
+<p align="right"><a href="#DeepLearningwithTensorflow2.0"><sup>▴ Back to top</sup></a></p>
 
 - Donate via Paypal <span class="badge-paypal"><a href="https://paypal.me/mukeshmithrakumar" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-green.svg" alt="PayPal donate button" /></a></span>
 
@@ -314,7 +308,20 @@ Currently I'm making lots of front-end components, tools, Node.js libraries, web
 
 
 <h2 align="center">Acknowledgment</h2>
+<p align="right"><a href="#DeepLearningwithTensorflow2.0"><sup>▴ Back to top</sup></a></p>
+
+To cite the Deep Learning Book by GoodFellow, please use this bibtex entry:
+@book{Goodfellow-et-al-2016,
+    title={Deep Learning},
+    author={Ian Goodfellow and Yoshua Bengio and Aaron Courville},
+    publisher={MIT Press},
+    note={\url{http://www.deeplearningbook.org}},
+    year={2016}
+}
+
+To cite the Deep Learning with Tensorflow 2.0 Book by Mukesh Mithrakumar, please use this bibtex entry:
 
 
 
 <h2 align="center">:speech_balloon: FAQ</h2>
+<p align="right"><a href="#DeepLearningwithTensorflow2.0"><sup>▴ Back to top</sup></a></p>
