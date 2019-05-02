@@ -55,7 +55,7 @@ If you find this content useful, consider buying me a cup of coffee ☕️😉.
 
 - Run the code using the Jupyter notebooks available in this repository's [notebooks](notebooks) directory.
 
-- Launch executable versions of these notebooks using [Google Colab](http://colab.research.google.com): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/00.00-Preface.ipynb)
+- Launch executable versions of these notebooks using [Google Colab](http://colab.research.google.com): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/Index.ipynb)
 
 - (Will Come Live after the Book is finished) Launch a live notebook server with these notebooks using [binder](https://beta.mybinder.org/): [![Binder](https://mybinder.org/badge.svg)]()
 
