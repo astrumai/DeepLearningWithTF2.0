@@ -66,7 +66,7 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 
 
 <h2 align="center">Table of Contents</h2>
-<p align="right"><a href="#DeepLearningwithTensorflow2.0"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#DeepLearningWithTF2.0"><sup>▴ Back to top</sup></a></p>
 
 ## [0. Preface](00.00-Preface.ipynb)
 
@@ -296,7 +296,7 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 
 
 <h2 align="center">Donate</h2>
-<p align="right"><a href="#DeepLearningwithTensorflow2.0"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#DeepLearningWithTF2.0"><sup>▴ Back to top</sup></a></p>
 
 - Donate via Paypal <span class="badge-paypal"><a href="https://paypal.me/mukeshmithrakumar" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-green.svg" alt="PayPal donate button" /></a></span>
 
@@ -308,7 +308,7 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 
 
 <h2 align="center">Acknowledgment</h2>
-<p align="right"><a href="#DeepLearningwithTensorflow2.0"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#DeepLearningWithTF2.0"><sup>▴ Back to top</sup></a></p>
 
 To cite the Deep Learning Book by GoodFellow, please use this bibtex entry:
 @book{Goodfellow-et-al-2016,
@@ -324,4 +324,4 @@ To cite the Deep Learning with Tensorflow 2.0 Book by Mukesh Mithrakumar, please
 
 
 <h2 align="center">:speech_balloon: FAQ</h2>
-<p align="right"><a href="#DeepLearningwithTensorflow2.0"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#DeepLearningWithTF2.0"><sup>▴ Back to top</sup></a></p>
