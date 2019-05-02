@@ -51,11 +51,11 @@ If you find this content useful, consider buying me a cup of coffee ☕️😉.
 
 <h2 align="center">:clipboard: Getting Started</h2>
 
-- Read the book in its entirety online at https://www.adhiraiyan.org/books.html
+- Read the book in its entirety online at https://www.adhiraiyan.org/DeepLearningWithTensorflow.html
 
 - Run the code using the Jupyter notebooks available in this repository's [notebooks](notebooks) directory.
 
-- Launch executable versions of these notebooks using [Google Colab](http://colab.research.google.com): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/mukeshmithrakumar/DeepLearningWithTF2.0/blob/master/notebooks/00.00-Preface.ipynb)
+- Launch executable versions of these notebooks using [Google Colab](http://colab.research.google.com): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/00.00-Preface.ipynb)
 
 - (Will Come Live after the Book is finished)Launch a live notebook server with these notebooks using [binder](https://beta.mybinder.org/): [![Binder](https://mybinder.org/badge.svg)]()
 
@@ -307,8 +307,6 @@ Currently I'm making lots of front-end components, tools, Node.js libraries, web
 - Donate via Paypal <span class="badge-paypal"><a href="https://paypal.me/mukeshmithrakumar" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-green.svg" alt="PayPal donate button" /></a></span>
 
 - Become a Patreon <span class="badge-patreon"><a href="https://patreon.com/mukeshmithrakumar" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-orange.svg" alt="Patreon donate button" /></a></span>
-
-- Donate via flattr <span class="badge-flattr"><a href="https://flattr.com/profile/mukeshmithrakumar" title="Donate to this project using Flattr"><img src="https://img.shields.io/badge/flattr-donate-brightgreen.svg" alt="Flattr donate button" /></a></span>
 
 - Donate via liberpay <a href="https://liberapay.com/mmukesh/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 
