@@ -68,7 +68,7 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 <h2 align="center">Table of Contents</h2>
 <p align="right"><a href="#DeepLearningWithTF2.0"><sup>▴ Back to top</sup></a></p>
 
-## [0. Preface](00.00-Preface.ipynb)
+## [0. Preface](notebooks/00.00-Preface.ipynb)
 
 
 ## [1. Introduction (05.05.2019)](01.00-Introduction.ipynb)
