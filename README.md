@@ -66,17 +66,17 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 
 
 <h2 align="center">Table of Contents</h2>
-<p align="right"><a href="#DeepLearningWithTF2.0"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#Deep-Learning-with-Tensorflow-2.0"><sup>▴ Back to top</sup></a></p>
 
 ## [0. Preface](notebooks/00.00-Preface.ipynb)
 
 
-## [1. Introduction (05.05.2019)](01.00-Introduction.ipynb)
+## [1. Introduction (05.05.2019)](notebooks/01.00-Introduction.ipynb)
 <li>01.01 Who should read this book</li>
 <li>01.02 Historical Trends in Deep Learning</li>
 
 
-## [2. Applied Math and Machine Learning Basics (05.12.2019)](02.00-Linear-Algebra.ipynb)
+## [2. Applied Math and Machine Learning Basics (05.12.2019)](notebooks/02.00-Linear-Algebra.ipynb)
 <li>02.01 Scalars, Vectors, Matrices and Tensors</li>
 <li>02.02 Multiplying Matrices and Vectors</li>
 <li>02.03 Identity and Inverse Matrices</li>
@@ -91,7 +91,7 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 <li>02.12 Example: Principal Components Analysis</li>
 
 
-## [3. Probability and Information Theory (05.19.2019)](03.00-Probability-and-Information-Theory.ipynb)
+## [3. Probability and Information Theory (05.19.2019)](notebooks/03.00-Probability-and-Information-Theory.ipynb)
 <li>03.01 Why Probability?</li>
 <li>03.02 Random Variables</li>
 <li>03.03 Probability Distributions</li>
@@ -108,7 +108,7 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 <li>03.14 Structured Probabilistic Models</li>
 
 
-## [4. Numerical Computation (05.26.2019)](04.00-Numerical-Computation.ipynb)
+## [4. Numerical Computation (05.26.2019)](notebooks/04.00-Numerical-Computation.ipynb)
 <li>04.01 Overflow and Underflow</li>
 <li>04.02 Poor Conditioning</li>
 <li>04.03 Gradient-Based Optimization</li>
@@ -116,7 +116,7 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 <li>04.05 Example: Linear Least Squares</li>
 
 
-## [5. Machine Learning Basics (06.02.2019)](05.00-Machine-Learning-Basics.ipynb)
+## [5. Machine Learning Basics (06.02.2019)](notebooks/05.00-Machine-Learning-Basics.ipynb)
 <li>05.01 Learning Algorithms</li>
 <li>05.02 Capacity, Overfitting and Underfitting</li>
 <li>05.03 Hyperparameters and Validation Sets</li>
@@ -130,7 +130,7 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 <li>05.11 Challenges Motivating Deep Learning</li>
 
 
-## [6. Deep Feedforward Networks (06.09.2019)](06.00-Deep-Feedforward-Networks.ipynb)
+## [6. Deep Feedforward Networks (06.09.2019)](notebooks/06.00-Deep-Feedforward-Networks.ipynb)
 <li>06.01 Example: Learning XOR</li>
 <li>06.02 Gradient-Based Learning</li>
 <li>06.03 Hidden Units</li>
@@ -139,7 +139,7 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 <li>06.06 Historical Notes</li>
 
 
-## [7. Regularization for Deep Learning (06.16.2019)](07.00-Regularization-for-Deep-Learning.ipynb)
+## [7. Regularization for Deep Learning (06.16.2019)](notebooks/07.00-Regularization-for-Deep-Learning.ipynb)
 <li>07.01 Parameter Norm Penalties</li>
 <li>07.02 Norm Penalties as Constrained Optimization</li>
 <li>07.03 Regularization and Under-Constrained Problems</li>
@@ -156,7 +156,7 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 <li>07.14 Tangent Distance, Tangent Prop and Manifold Tangent Classifier</li>
 
 
-## [8. Optimization for Training Deep Models (06.23.2019)](08.00-Optimization-for-Training-Deep-Models.ipynb)
+## [8. Optimization for Training Deep Models (06.23.2019)](notebooks/08.00-Optimization-for-Training-Deep-Models.ipynb)
 <li>08.01 How Learning Differs from Pure Optimization</li>
 <li>08.02 Challenges in Neural Network Optimization</li>
 <li>08.03 Basic Algorithms</li>
@@ -166,7 +166,7 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 <li>08.07 Optimization Strategies and Meta-Algorithms</li>
 
 
-## [9. Convolutional Networks (06.30.2019)](09.00-Convolutional-Networks.ipynb)
+## [9. Convolutional Networks (06.30.2019)](notebooks/09.00-Convolutional-Networks.ipynb)
 <li>09.01 The Convolution Operation</li>
 <li>09.02 Motivation</li>
 <li>09.03 Pooling</li>
@@ -180,7 +180,7 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 <li>09.11 Convolutional Networks and the History of Deep Learning</li>
 
 
-## [10. Sequence Modeling: Recurrent and Recursive Nets (07.07.2019)](10.00-Sequence-Modeling-Recurrent-and-Recursive-Nets.ipynb)
+## [10. Sequence Modeling: Recurrent and Recursive Nets (07.07.2019)](notebooks/10.00-Sequence-Modeling-Recurrent-and-Recursive-Nets.ipynb)
 <li>10.01 Unfolding Computational Graphs</li>
 <li>10.02 Recurrent Neural Networks</li>
 <li>10.03 Bidirectional RNNs</li>
@@ -195,7 +195,7 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 <li>10.12 Explicit Memory</li>
 
 
-## [11. Practical Methodology (07.14.2019)](11.00-Practical-Methodology.ipynb)
+## [11. Practical Methodology (07.14.2019)](notebooks/11.00-Practical-Methodology.ipynb)
 <li>11.01 Performance Metrics</li>
 <li>11.02 Default Baseline Models</li>
 <li>11.03 Determining Whether to Gather More Data</li>
@@ -204,7 +204,7 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 <li>11.06 Example: Multi-Digit Number Recognition</li>
 
 
-## [12. Applications (07.21.2019)](12.00-Applications.ipynb)
+## [12. Applications (07.21.2019)](notebooks/12.00-Applications.ipynb)
 <li>12.01 Large-Scale Deep Learning</li>
 <li>12.02 Computer Vision</li>
 <li>12.03 Speech Recognition</li>
@@ -212,7 +212,7 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 <li>12.05 Other Applications</li>
 
 
-## [13. Linear Factor Models (07.28.2019)](13.00-Linear-Factor-Models.ipynb)
+## [13. Linear Factor Models (07.28.2019)](notebooks/13.00-Linear-Factor-Models.ipynb)
 <li>13.01 Probabilistic PCA and Factor Analysis</li>
 <li>13.02 Independent Component Analysis</li>
 <li>13.03 Slow Feature Analysis</li>
@@ -220,7 +220,7 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 <li>13.05 Manifold Interpretation of PCA</li>
 
 
-## [14. Autoencoders (08.04.2019)](14.00-Autoencoders.ipynb)
+## [14. Autoencoders (08.04.2019)](notebooks/14.00-Autoencoders.ipynb)
 <li>14.01 Undercomplete Autoencoders</li>
 <li>14.02 Regularized Autoencoders</li>
 <li>14.03 Representational Power, Layer Size and Depth</li>
@@ -232,7 +232,7 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 <li>14.09 Applications of Autoencoders</li>
 
 
-## [15. Representation Learning (08.11.2019)](15.00-Representation-Learning.ipynb)
+## [15. Representation Learning (08.11.2019)](notebooks/15.00-Representation-Learning.ipynb)
 <li>15.01 Greedy Layer-Wise Unsupervised Pretraining</li>
 <li>15.02 Transfer Learning and Domain Adaptation</li>
 <li>15.03 Semi-Supervised Disentangling of Causal Factors</li>
@@ -241,7 +241,7 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 <li>15.06 Providing Clues to Discover Underlying Causes</li>
 
 
-## [16. Structured Probabilistic Models for Deep Learning (08.18.2019)](16.00-Structured-Probabilistic-Models-for-Deep-Learning.ipynb)
+## [16. Structured Probabilistic Models for Deep Learning (08.18.2019)](notebooks/16.00-Structured-Probabilistic-Models-for-Deep-Learning.ipynb)
 <li>16.01 The Challenge of Unstructured Modeling</li>
 <li>16.02 Using Graphs to Describe Model Structure</li>
 <li>16.03 Sampling from Graphical Models</li>
@@ -251,7 +251,7 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 <li>16.07 The Deep Learning Approach to Structured Probabilistic Models</li>
 
 
-## [17. Monte Carlo Methods (08.25.2019)](17.00-Monte-Carlo-Methods.ipynb)
+## [17. Monte Carlo Methods (08.25.2019)](notebooks/17.00-Monte-Carlo-Methods.ipynb)
 <li>17.01 Sampling and Monte Carlo Methods</li>
 <li>17.02 Importance Sampling</li>
 <li>17.03 Markov Chain Monte Carlo Methods</li>
@@ -259,7 +259,7 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 <li>17.05 The Challenge of Mixing between Separated Modes</li>
 
 
-## [18. Confronting the Partition Function (09.01.2019)](18.00-Confronting-the-Partition-Function.ipynb)
+## [18. Confronting the Partition Function (09.01.2019)](notebooks/18.00-Confronting-the-Partition-Function.ipynb)
 <li>18.01 The Log-Likelihood Gradient</li>
 <li>18.02 Stochastic Maximum Likelihood and Contrastive Divergence</li>
 <li>18.03 Pseudolikelihood</li>
@@ -269,7 +269,7 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 <li>18.07 Estimating the Partition Function</li>
 
 
-## [19. Approximate Inference (09.08.2019)](19.00-Approximate-Inference.ipynb)
+## [19. Approximate Inference (09.08.2019)](notebooks/19.00-Approximate-Inference.ipynb)
 <li>19.01 Inference as Optimization</li>
 <li>19.02 Expectation Maximization</li>
 <li>19.03 MAP Inference and Sparse Coding</li>
@@ -277,7 +277,7 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 <li>19.05 Learned Approximate Inference</li>
 
 
-## [20. Deep Generative Models (09.15.2019)](20.00-Deep-Generative-Models.ipynb)
+## [20. Deep Generative Models (09.15.2019)](notebooks/20.00-Deep-Generative-Models.ipynb)
 <li>20.01 Boltzmann Machines</li>
 <li>20.02 Restricted Boltzmann Machines</li>
 <li>20.03 Deep Belief Networks</li>
@@ -296,7 +296,7 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 
 
 <h2 align="center">Donate</h2>
-<p align="right"><a href="#DeepLearningWithTF2.0"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#Deep-Learning-with-Tensorflow-2.0"><sup>▴ Back to top</sup></a></p>
 
 - Donate via Paypal <span class="badge-paypal"><a href="https://paypal.me/mukeshmithrakumar" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-green.svg" alt="PayPal donate button" /></a></span>
 
@@ -308,7 +308,7 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 
 
 <h2 align="center">Acknowledgment</h2>
-<p align="right"><a href="#DeepLearningWithTF2.0"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#Deep-Learning-with-Tensorflow-2.0"><sup>▴ Back to top</sup></a></p>
 
 To cite the Deep Learning Book by GoodFellow, please use this bibtex entry:
 @book{Goodfellow-et-al-2016,
@@ -324,4 +324,4 @@ To cite the Deep Learning with Tensorflow 2.0 Book by Mukesh Mithrakumar, please
 
 
 <h2 align="center">:speech_balloon: FAQ</h2>
-<p align="right"><a href="#DeepLearningWithTF2.0"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#Deep-Learning-with-Tensorflow-2.0"><sup>▴ Back to top</sup></a></p>
