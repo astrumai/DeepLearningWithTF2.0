@@ -84,7 +84,6 @@ I am also offering a limited time FOUR 1 hour 1 on 1 mentor sessions monthly to 
 
 
 <h2 align="center">Table of Contents</h2>
-<p align="right"><a href="#DLwithTensorflow20"><sup>▴ Back to top</sup></a></p>
 
 ## [0. Index](notebooks/Index.ipynb)
 
@@ -93,7 +92,7 @@ I am also offering a limited time FOUR 1 hour 1 on 1 mentor sessions monthly to 
 <li>01.00 Preface</li>
 <li>01.01 Introduction</li>
 <li>01.02 Who should read this book</li>
-<li>01.03 Historical Trends in Deep Learning</li>
+<li>01.03 A Short History of Deep Learning</li>
 
 
 ## [2. Applied Math and Machine Learning Basics (05.12.2019)](notebooks/02.00-Linear-Algebra.ipynb)
@@ -316,7 +315,6 @@ I am also offering a limited time FOUR 1 hour 1 on 1 mentor sessions monthly to 
 
 
 <h2 align="center">Acknowledgment</h2>
-<p align="right"><a href="#DLwithTensorflow20"><sup>▴ Back to top</sup></a></p>
 
 To cite the Deep Learning Book by GoodFellow, please use this bibtex entry:
 
@@ -333,4 +331,3 @@ To cite the Deep Learning with Tensorflow 2.0 Book by Mukesh Mithrakumar, please
 
 
 <h2 align="center">:speech_balloon: FAQ</h2>
-<p align="right"><a href="#DLwithTensorflow20"><sup>▴ Back to top</sup></a></p>
