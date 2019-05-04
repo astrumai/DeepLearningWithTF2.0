@@ -1,6 +1,6 @@
 <p align="center"><img width="40%" src="logo/Deeplearningwithtensorflow20_small.png" /></p>
 
-<h1 align="center">Deep Learning with Tensorflow 2.0</h1>
+<h1 align="center" href="#DLwithTensorflow20">Deep Learning with Tensorflow 2.0</h1>
 
 <p align="center">
     <a href="https://opensource.org/licenses/MIT">
@@ -13,15 +13,6 @@
         <img src="https://img.shields.io/badge/Tensorflow-2.0-orange.svg" alt="Python 3.6">
     </a>
     <a><img src="https://img.shields.io/badge/Status-Work_In_Progress-yellow.svg" alt="WorkInProgress"></a>
-    <a href="https://www.linkedin.com/in/mukesh-mithrakumar/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue.svg?" alt="LinkedIn">
-    </a>
-    <a href="https://www.facebook.com/adhiraiyan/">
-        <img src="https://img.shields.io/badge/Facebook-brightgreen.svg?" alt="Facebook">
-    </a>
-    <a href="https://twitter.com/MMithrakumar">
-        <img src="https://img.shields.io/badge/Twitter-9cf.svg?" alt="Facebook">
-    </a>
     <a href="https://www.adhiraiyan.org/">
         <img src="https://img.shields.io/badge/Adhiraiyan AI Blog-red.svg?" alt="Facebook">
     </a>
@@ -43,10 +34,9 @@ This is the GitHub version of the Deep Learning with Tensorflow 2.0 by Mukesh Mi
 
 If you find this content useful, consider buying me a cup of coffee ☕️😉.
 
-<span class="badge-buymeacoffee"><a href="https://buymeacoffee.com/mmukesh"
-        title="Donate to this project using Buy Me A Coffee"><img
-            src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-blue.svg"
-            alt="Buy Me A Coffee donate button" /></a></span>
+<a href="https://www.buymeacoffee.com/mmukesh"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://liberapay.com/mmukesh/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+<a href="https://paypal.me/mukeshmithrakumar" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-green.svg" alt="PayPal donate button" /></a>
 
 
 <h2 align="center">:clipboard: Getting Started</h2>
@@ -62,11 +52,39 @@ If you find this content useful, consider buying me a cup of coffee ☕️😉.
 
 <h2 align="center">About</h2>
 
-This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Courville's [Deep Learning](https://www.deeplearningbook.org/) with Tensorflow 2.0. Please see below for the table of contents.
+This Book is a practical guide to Deep Learning with Tensorflow 2.0 as our framework. We will be using the [Deep Learning](https://www.deeplearningbook.org/) Book by Ian Goodfellow as our guide. Ian Goodfellows' Deep Learning Book is an excellent, comprehensive textbook on deep learning that I found so far but this book can be challenging because this is a highly theoretical book written as an academic text and the best way to learn these concepts would be by practicing it, working on problems and solving programming examples which resulted in me writing Deep Learning with Tensorflow 2.0 as a practical guide with explanations for complex concepts, summaries for others and practical examples and exercises in Tensorflow 2.0 to help anyone with limited mathematics, machine learning and programming background get started.
+
+Read more about the book in [Introduction](notebooks/01.00-Introduction.ipynb).
+
+Finally I would like to ask for your help, this Book is for you, and I would love to hear from you, if you need more explanations, have doubts on certain sections, many others will feel the same so please feel free to reach out to me via:
+
+<a href="https://www.facebook.com/adhiraiyan/">
+        <img src="https://img.shields.io/badge/Facebook-brightgreen.svg?" alt="Facebook">
+
+<a href="https://www.linkedin.com/in/mukesh-mithrakumar/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue.svg?" alt="LinkedIn">
+</a>
+
+<a href="https://twitter.com/MMithrakumar">
+    <img src="https://img.shields.io/badge/Twitter-9cf.svg?" alt="Facebook">
+</a>
+
+<a href="https://www.instagram.com/adhiraiyan/">
+    <img src="https://img.shields.io/badge/Instagram-blueviolet.svg?" alt="Instagram">
+</a>
+
+with your questions, comments or even if you just want to say Hi.
+
+I am also offering a limited time FOUR 1 hour 1 on 1 mentor sessions monthly to go through whatever questions you may have on the materials, if you like you can sign up as a Patron:
+
+<span class="badge-patreon"><a href="https://www.patreon.com/bePatron?u=19664301"
+    title="Donate to this project using Patreon"><img src="logo/patron button.png" width="175"
+    alt="Patreon donate button" /></a></span>
+
 
 
 <h2 align="center">Table of Contents</h2>
-<p align="right"><a href="#Deep-Learning-with-Tensorflow-2.0"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#DLwithTensorflow20"><sup>▴ Back to top</sup></a></p>
 
 ## [0. Index](notebooks/Index.ipynb)
 
@@ -297,22 +315,11 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 <li>20.15 Conclusion</li>
 
 
-<h2 align="center">Donate</h2>
-<p align="right"><a href="#Deep-Learning-with-Tensorflow-2.0"><sup>▴ Back to top</sup></a></p>
-
-- Donate via Paypal <span class="badge-paypal"><a href="https://paypal.me/mukeshmithrakumar" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-green.svg" alt="PayPal donate button" /></a></span>
-
-- Become a Patreon <span class="badge-patreon"><a href="https://patreon.com/mukeshmithrakumar" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-orange.svg" alt="Patreon donate button" /></a></span>
-
-- Donate via liberpay <a href="https://liberapay.com/mmukesh/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
-
-- Donate via Buy me a Cofee <span class="badge-buymeacoffee"><a href="https://buymeacoffee.com/mmukesh" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-brightgreen.svg" alt="Buy Me A Coffee donate button" /></a></span>
-
-
 <h2 align="center">Acknowledgment</h2>
-<p align="right"><a href="#Deep-Learning-with-Tensorflow-2.0"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#DLwithTensorflow20"><sup>▴ Back to top</sup></a></p>
 
 To cite the Deep Learning Book by GoodFellow, please use this bibtex entry:
+
 @book{Goodfellow-et-al-2016,
     title={Deep Learning},
     author={Ian Goodfellow and Yoshua Bengio and Aaron Courville},
@@ -326,4 +333,4 @@ To cite the Deep Learning with Tensorflow 2.0 Book by Mukesh Mithrakumar, please
 
 
 <h2 align="center">:speech_balloon: FAQ</h2>
-<p align="right"><a href="#Deep-Learning-with-Tensorflow-2.0"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#DLwithTensorflow20"><sup>▴ Back to top</sup></a></p>
