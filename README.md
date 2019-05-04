@@ -68,12 +68,14 @@ This book is a practical guide to Ian Goodfellow and Yoshua Bengio and Aaron Cou
 <h2 align="center">Table of Contents</h2>
 <p align="right"><a href="#Deep-Learning-with-Tensorflow-2.0"><sup>▴ Back to top</sup></a></p>
 
-## [0. Preface](notebooks/00.00-Preface.ipynb)
+## [0. Index](notebooks/Index.ipynb)
 
 
 ## [1. Introduction (05.05.2019)](notebooks/01.00-Introduction.ipynb)
-<li>01.01 Who should read this book</li>
-<li>01.02 Historical Trends in Deep Learning</li>
+<li>01.00 Preface</li>
+<li>01.01 Introduction</li>
+<li>01.02 Who should read this book</li>
+<li>01.03 Historical Trends in Deep Learning</li>
 
 
 ## [2. Applied Math and Machine Learning Basics (05.12.2019)](notebooks/02.00-Linear-Algebra.ipynb)
