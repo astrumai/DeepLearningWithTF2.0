@@ -1,0 +1,7 @@
+name: deep-learning-with-tensorflow-2.0
+channels:
+  - conda-forge
+dependencies:
+  - python=3.5
+  - pip:
+    - tensorflow-gpu==2.0.0-alpha0

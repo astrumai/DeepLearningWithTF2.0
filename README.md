@@ -47,7 +47,7 @@ If you find this content useful, consider buying me a cup of coffee ☕️😉.
 
 - Launch executable versions of these notebooks using [Google Colab](http://colab.research.google.com): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/Index.ipynb)
 
-- (Will Come Live after the Book is finished) Launch a live notebook server with these notebooks using [binder](https://beta.mybinder.org/): [![Binder](https://mybinder.org/badge.svg)]()
+- Launch a live notebook server with these notebooks using [binder](https://beta.mybinder.org/): [![Binder](https://mybinder.org/badge.svg)]()
 
 
 <h2 align="center">About</h2>
