@@ -10,7 +10,7 @@ BOOK_COMMENT = "<!--BOOK_INFORMATION-->"
 BOOK_INFO = BOOK_COMMENT + """
 <img align="left" style="padding-right:10px;" src="figures/Deeplearningwithtensorflow20_small_40.png">
 
-*This notebook contains an excerpt from the [Deep Learning with Tensorflow 2.0]() by Mukesh Mithrakumar. The code is released under the [MIT license](https://opensource.org/licenses/MIT) and is available for FREE [on GitHub](https://github.com/adhiraiyan/DeepLearningWithTF2.0).*
+*This notebook contains an excerpt from the [Deep Learning with Tensorflow 2.0](https://www.adhiraiyan.org/DeepLearningWithTensorflow.html) by Mukesh Mithrakumar. The code is released under the [MIT license](https://opensource.org/licenses/MIT) and is available for FREE [on GitHub](https://github.com/adhiraiyan/DeepLearningWithTF2.0).*
 
 *If you find this content useful, please consider supporting my work by [buying me a coffee](https://www.buymeacoffee.com/mmukesh)!*
 
