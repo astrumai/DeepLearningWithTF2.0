@@ -101,7 +101,7 @@ I am also offering a limited time FOUR 1 hour 1 on 1 mentor sessions monthly to 
 <li>01.03 A Short History of Deep Learning</li>
 
 
-## [2. Applied Math and Machine Learning Basics (05.12.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/02.00-Linear-Algebra.ipynb)
+## [2. Applied Math and Machine Learning Basics (05.19.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/02.00-Linear-Algebra.ipynb)
 <li>02.01 Scalars, Vectors, Matrices and Tensors</li>
 <li>02.02 Multiplying Matrices and Vectors</li>
 <li>02.03 Identity and Inverse Matrices</li>
@@ -116,7 +116,7 @@ I am also offering a limited time FOUR 1 hour 1 on 1 mentor sessions monthly to 
 <li>02.12 Example: Principal Components Analysis</li>
 
 
-## [3. Probability and Information Theory (05.19.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/03.00-Probability-and-Information-Theory.ipynb)
+## [3. Probability and Information Theory (06.02.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/03.00-Probability-and-Information-Theory.ipynb)
 <li>03.01 Why Probability?</li>
 <li>03.02 Random Variables</li>
 <li>03.03 Probability Distributions</li>
@@ -133,7 +133,7 @@ I am also offering a limited time FOUR 1 hour 1 on 1 mentor sessions monthly to 
 <li>03.14 Structured Probabilistic Models</li>
 
 
-## [4. Numerical Computation (05.26.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/04.00-Numerical-Computation.ipynb)
+## [4. Numerical Computation (06.16.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/04.00-Numerical-Computation.ipynb)
 <li>04.01 Overflow and Underflow</li>
 <li>04.02 Poor Conditioning</li>
 <li>04.03 Gradient-Based Optimization</li>
@@ -141,7 +141,7 @@ I am also offering a limited time FOUR 1 hour 1 on 1 mentor sessions monthly to 
 <li>04.05 Example: Linear Least Squares</li>
 
 
-## [5. Machine Learning Basics (06.02.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/05.00-Machine-Learning-Basics.ipynb)
+## [5. Machine Learning Basics (06.30.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/05.00-Machine-Learning-Basics.ipynb)
 <li>05.01 Learning Algorithms</li>
 <li>05.02 Capacity, Overfitting and Underfitting</li>
 <li>05.03 Hyperparameters and Validation Sets</li>
@@ -155,7 +155,7 @@ I am also offering a limited time FOUR 1 hour 1 on 1 mentor sessions monthly to 
 <li>05.11 Challenges Motivating Deep Learning</li>
 
 
-## [6. Deep Feedforward Networks (06.09.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/06.00-Deep-Feedforward-Networks.ipynb)
+## [6. Deep Feedforward Networks (07.14.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/06.00-Deep-Feedforward-Networks.ipynb)
 <li>06.01 Example: Learning XOR</li>
 <li>06.02 Gradient-Based Learning</li>
 <li>06.03 Hidden Units</li>
@@ -164,7 +164,7 @@ I am also offering a limited time FOUR 1 hour 1 on 1 mentor sessions monthly to 
 <li>06.06 Historical Notes</li>
 
 
-## [7. Regularization for Deep Learning (06.16.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/07.00-Regularization-for-Deep-Learning.ipynb)
+## [7. Regularization for Deep Learning (07.28.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/07.00-Regularization-for-Deep-Learning.ipynb)
 <li>07.01 Parameter Norm Penalties</li>
 <li>07.02 Norm Penalties as Constrained Optimization</li>
 <li>07.03 Regularization and Under-Constrained Problems</li>
@@ -181,7 +181,7 @@ I am also offering a limited time FOUR 1 hour 1 on 1 mentor sessions monthly to 
 <li>07.14 Tangent Distance, Tangent Prop and Manifold Tangent Classifier</li>
 
 
-## [8. Optimization for Training Deep Models (06.23.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/08.00-Optimization-for-Training-Deep-Models.ipynb)
+## [8. Optimization for Training Deep Models (08.11.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/08.00-Optimization-for-Training-Deep-Models.ipynb)
 <li>08.01 How Learning Differs from Pure Optimization</li>
 <li>08.02 Challenges in Neural Network Optimization</li>
 <li>08.03 Basic Algorithms</li>
@@ -191,7 +191,7 @@ I am also offering a limited time FOUR 1 hour 1 on 1 mentor sessions monthly to 
 <li>08.07 Optimization Strategies and Meta-Algorithms</li>
 
 
-## [9. Convolutional Networks (06.30.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/09.00-Convolutional-Networks.ipynb)
+## [9. Convolutional Networks (08.25.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/09.00-Convolutional-Networks.ipynb)
 <li>09.01 The Convolution Operation</li>
 <li>09.02 Motivation</li>
 <li>09.03 Pooling</li>
@@ -205,7 +205,7 @@ I am also offering a limited time FOUR 1 hour 1 on 1 mentor sessions monthly to 
 <li>09.11 Convolutional Networks and the History of Deep Learning</li>
 
 
-## [10. Sequence Modeling: Recurrent and Recursive Nets (07.07.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/10.00-Sequence-Modeling-Recurrent-and-Recursive-Nets.ipynb)
+## [10. Sequence Modeling: Recurrent and Recursive Nets (09.08.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/10.00-Sequence-Modeling-Recurrent-and-Recursive-Nets.ipynb)
 <li>10.01 Unfolding Computational Graphs</li>
 <li>10.02 Recurrent Neural Networks</li>
 <li>10.03 Bidirectional RNNs</li>
@@ -220,7 +220,7 @@ I am also offering a limited time FOUR 1 hour 1 on 1 mentor sessions monthly to 
 <li>10.12 Explicit Memory</li>
 
 
-## [11. Practical Methodology (07.14.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/11.00-Practical-Methodology.ipynb)
+## [11. Practical Methodology (09.22.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/11.00-Practical-Methodology.ipynb)
 <li>11.01 Performance Metrics</li>
 <li>11.02 Default Baseline Models</li>
 <li>11.03 Determining Whether to Gather More Data</li>
@@ -229,7 +229,7 @@ I am also offering a limited time FOUR 1 hour 1 on 1 mentor sessions monthly to 
 <li>11.06 Example: Multi-Digit Number Recognition</li>
 
 
-## [12. Applications (07.21.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/12.00-Applications.ipynb)
+## [12. Applications (10.06.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/12.00-Applications.ipynb)
 <li>12.01 Large-Scale Deep Learning</li>
 <li>12.02 Computer Vision</li>
 <li>12.03 Speech Recognition</li>
@@ -237,7 +237,7 @@ I am also offering a limited time FOUR 1 hour 1 on 1 mentor sessions monthly to 
 <li>12.05 Other Applications</li>
 
 
-## [13. Linear Factor Models (07.28.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/13.00-Linear-Factor-Models.ipynb)
+## [13. Linear Factor Models (10.20.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/13.00-Linear-Factor-Models.ipynb)
 <li>13.01 Probabilistic PCA and Factor Analysis</li>
 <li>13.02 Independent Component Analysis</li>
 <li>13.03 Slow Feature Analysis</li>
@@ -245,7 +245,7 @@ I am also offering a limited time FOUR 1 hour 1 on 1 mentor sessions monthly to 
 <li>13.05 Manifold Interpretation of PCA</li>
 
 
-## [14. Autoencoders (08.04.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/14.00-Autoencoders.ipynb)
+## [14. Autoencoders (11.03.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/14.00-Autoencoders.ipynb)
 <li>14.01 Undercomplete Autoencoders</li>
 <li>14.02 Regularized Autoencoders</li>
 <li>14.03 Representational Power, Layer Size and Depth</li>
@@ -257,7 +257,7 @@ I am also offering a limited time FOUR 1 hour 1 on 1 mentor sessions monthly to 
 <li>14.09 Applications of Autoencoders</li>
 
 
-## [15. Representation Learning (08.11.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/15.00-Representation-Learning.ipynb)
+## [15. Representation Learning (11.17.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/15.00-Representation-Learning.ipynb)
 <li>15.01 Greedy Layer-Wise Unsupervised Pretraining</li>
 <li>15.02 Transfer Learning and Domain Adaptation</li>
 <li>15.03 Semi-Supervised Disentangling of Causal Factors</li>
@@ -266,7 +266,7 @@ I am also offering a limited time FOUR 1 hour 1 on 1 mentor sessions monthly to 
 <li>15.06 Providing Clues to Discover Underlying Causes</li>
 
 
-## [16. Structured Probabilistic Models for Deep Learning (08.18.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/16.00-Structured-Probabilistic-Models-for-Deep-Learning.ipynb)
+## [16. Structured Probabilistic Models for Deep Learning (12.01.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/16.00-Structured-Probabilistic-Models-for-Deep-Learning.ipynb)
 <li>16.01 The Challenge of Unstructured Modeling</li>
 <li>16.02 Using Graphs to Describe Model Structure</li>
 <li>16.03 Sampling from Graphical Models</li>
@@ -276,7 +276,7 @@ I am also offering a limited time FOUR 1 hour 1 on 1 mentor sessions monthly to 
 <li>16.07 The Deep Learning Approach to Structured Probabilistic Models</li>
 
 
-## [17. Monte Carlo Methods (08.25.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/17.00-Monte-Carlo-Methods.ipynb)
+## [17. Monte Carlo Methods (12.08.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/17.00-Monte-Carlo-Methods.ipynb)
 <li>17.01 Sampling and Monte Carlo Methods</li>
 <li>17.02 Importance Sampling</li>
 <li>17.03 Markov Chain Monte Carlo Methods</li>
@@ -284,7 +284,7 @@ I am also offering a limited time FOUR 1 hour 1 on 1 mentor sessions monthly to 
 <li>17.05 The Challenge of Mixing between Separated Modes</li>
 
 
-## [18. Confronting the Partition Function (09.01.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/18.00-Confronting-the-Partition-Function.ipynb)
+## [18. Confronting the Partition Function (12.15.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/18.00-Confronting-the-Partition-Function.ipynb)
 <li>18.01 The Log-Likelihood Gradient</li>
 <li>18.02 Stochastic Maximum Likelihood and Contrastive Divergence</li>
 <li>18.03 Pseudolikelihood</li>
@@ -294,7 +294,7 @@ I am also offering a limited time FOUR 1 hour 1 on 1 mentor sessions monthly to 
 <li>18.07 Estimating the Partition Function</li>
 
 
-## [19. Approximate Inference (09.08.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/19.00-Approximate-Inference.ipynb)
+## [19. Approximate Inference (12.22.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/19.00-Approximate-Inference.ipynb)
 <li>19.01 Inference as Optimization</li>
 <li>19.02 Expectation Maximization</li>
 <li>19.03 MAP Inference and Sparse Coding</li>
@@ -302,7 +302,7 @@ I am also offering a limited time FOUR 1 hour 1 on 1 mentor sessions monthly to 
 <li>19.05 Learned Approximate Inference</li>
 
 
-## [20. Deep Generative Models (09.15.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/20.00-Deep-Generative-Models.ipynb)
+## [20. Deep Generative Models (12.29.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/20.00-Deep-Generative-Models.ipynb)
 <li>20.01 Boltzmann Machines</li>
 <li>20.02 Restricted Boltzmann Machines</li>
 <li>20.03 Deep Belief Networks</li>
