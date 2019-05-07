@@ -8,7 +8,7 @@ BOOK_COMMENT = "<!--BOOK_INFORMATION-->"
 
 
 BOOK_INFO = BOOK_COMMENT + """
-<img align="left" style="padding-right:10px;" src="figures/Deeplearningwithtensorflow20_small_40.png">
+<img align="left" style="padding-right:10px;" src="figures/DLlogosmall.png">
 
 *This notebook contains an excerpt from the [Deep Learning with Tensorflow 2.0](https://www.adhiraiyan.org/DeepLearningWithTensorflow.html) by Mukesh Mithrakumar. The code is released under the [MIT license](https://opensource.org/licenses/MIT) and is available for FREE [on GitHub](https://github.com/adhiraiyan/DeepLearningWithTF2.0).*
 
