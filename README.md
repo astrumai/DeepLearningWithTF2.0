@@ -53,7 +53,7 @@ If you find this content useful, consider buying me a cup of coffee ☕️😉.
 
 - Launch executable versions of these notebooks using [Google Colab](http://colab.research.google.com): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/Index.ipynb)
 
-- Launch a live notebook server with these notebooks using [binder]([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adhiraiyan/DeepLearningWithTF2.0/master)): [![Binder](https://mybinder.org/badge.svg)]()
+- Launch a live notebook server with these notebooks using [binder]([![Binder](https://mybinder.org/badge_logo.svg)](https://hub.mybinder.org/user/adhiraiyan-deeplearningwithtf2.0-d6q9vvah/tree/notebooks)): [![Binder](https://mybinder.org/badge.svg)]()
 
 
 <h2 align="center">About</h2>
