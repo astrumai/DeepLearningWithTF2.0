@@ -1,4 +1,4 @@
-<p align="center"><img width="40%" src="logo/Deeplearningwithtensorflow20_small.png" /></p>
+<p align="center"><img width="40%" src="logo/DLBookCover2.png" /></p>
 
 <h1 align="center" href="#DLwithTensorflow20">Deep Learning with Tensorflow 2.0</h1>
 
