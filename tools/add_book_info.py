@@ -12,7 +12,7 @@ BOOK_INFO = BOOK_COMMENT + """
 
 *This notebook contains an excerpt from the [Deep Learning with Tensorflow 2.0](https://www.adhiraiyan.org/DeepLearningWithTensorflow.html) by Mukesh Mithrakumar. The code is released under the [MIT license](https://opensource.org/licenses/MIT) and is available for FREE [on GitHub](https://github.com/adhiraiyan/DeepLearningWithTF2.0).*
 
-*If you find this content useful, please consider supporting my work by [buying me a cup of coffee](https://www.buymeacoffee.com/mmukesh)!*
+*Open Source runs on love, laughter and a whole lot of coffee. Consider buying me [one](https://www.buymeacoffee.com/mmukesh) if you find this content useful!*
 
 """
 

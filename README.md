@@ -36,9 +36,9 @@
 <h6 align="center">Made by Mukesh Mithrakumar • :milky_way: <a href="https://mukeshmithrakumar.com">https://mukeshmithrakumar.com</a></h6>
 
 
-This is the GitHub version of the Deep Learning with Tensorflow 2.0 by Mukesh Mithrakumar. Feel free to fork and watch for updates. The upcoming release dates are next to the Chapters.
+This is the GitHub version of the Deep Learning with Tensorflow 2.0 by Mukesh Mithrakumar. Feel free to fork and watch for updates. The upcoming publish dates are next to the Chapters.
 
-If you find this content useful, consider buying me a cup of coffee ☕️😉.
+Open Source runs on love, laughter and a whole lot of coffee. Consider buying me one if you find this content useful ☕️😉.
 
 <a href="https://www.buymeacoffee.com/mmukesh"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 <a href="https://liberapay.com/mmukesh/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
@@ -58,7 +58,7 @@ If you find this content useful, consider buying me a cup of coffee ☕️😉.
 
 <h2 align="center">About</h2>
 
-This Book is a practical guide to Deep Learning with Tensorflow 2.0 as our framework. We will be using the [Deep Learning](https://www.deeplearningbook.org/) Book by Ian Goodfellow as our guide. Ian Goodfellows' Deep Learning Book is an excellent, comprehensive textbook on deep learning that I found so far but this book can be challenging because this is a highly theoretical book written as an academic text and the best way to learn these concepts would be by practicing it, working on problems and solving programming examples which resulted in me writing Deep Learning with Tensorflow 2.0 as a practical guide with explanations for complex concepts, summaries for others and practical examples and exercises in Tensorflow 2.0 to help anyone with limited mathematics, machine learning and programming background get started.
+This Book is a practical guide to Deep Learning with Tensorflow 2.0. We will be using the [Deep Learning](https://www.deeplearningbook.org/) Book by Ian Goodfellow as our guide. Ian Goodfellows' Deep Learning Book is an excellent, comprehensive textbook on deep learning that I found so far but this book can be challenging because this is a highly theoretical book written as an academic text and the best way to learn these concepts would be by practicing it, working on problems and solving programming examples which resulted in me writing Deep Learning with Tensorflow 2.0 as a practical guide with explanations for complex concepts, summaries for others and practical examples and exercises in Tensorflow 2.0 to help anyone with limited mathematics, machine learning and programming background to get started.
 
 Read more about the book in [Introduction](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/01.00-Introduction.ipynb).
 
