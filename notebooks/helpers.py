@@ -4,8 +4,9 @@ import numpy as np
 import tensorflow as tf
 
 def vector_plot(vecs, xlim, ylim, cols=["#1190FF", "#FF9A13"], alpha=1):
-    plt.axvline(x=0, color='#A9A9A9', zorder=0)
-    plt.axhline(y=0, color='#A9A9A9', zorder=0)
+    plt.rc_context({'axes.edgecolor':'orange', 'xtick.color':'red', 'ytick.color':'red'})
+    plt.axvline(x=0, color='k', zorder=0)
+    plt.axhline(y=0, color='k', zorder=0)
 
     for i in range(len(vecs)):
         if (isinstance(alpha, list)):
@@ -35,10 +36,11 @@ def plot_transform(P_before, P_after, text_before, text_after, name, color=['#FF
         for vector_before, vector_after in zip(tf.transpose(P_before), tf.transpose(P_after)):
             plot_vector2d(vector_before, color="#FF9A13", linestyle="--")
             plot_vector2d(vector_after, color="#1190FF", linestyle="-")
+    plt.rc_context({'axes.edgecolor':'orange', 'xtick.color':'red', 'ytick.color':'red'})
     plt.gca().add_artist(Polygon(tf.transpose(P_before), alpha=0.2))
     plt.gca().add_artist(Polygon(tf.transpose(P_after), alpha=0.3, color="#FF9A13"))
     plt.text(-.25, 1, text_before, size=18, color=color[1])
     plt.text(1.5, 0, text_after, size=18, color=color[0])
-    plt.title(name)
+    plt.title(name, color='w')
     plt.axis(axis)
     plt.grid()
