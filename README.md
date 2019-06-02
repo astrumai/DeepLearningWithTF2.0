@@ -40,6 +40,7 @@ This is the GitHub version of the Deep Learning with Tensorflow 2.0 by Mukesh Mi
 
 Open Source runs on love, laughter and a whole lot of coffee. Consider buying me one if you find this content useful ☕️😉.
 
+<a href="https://beerpay.io/adhiraiyan/DeepLearningWithTF2.0"><img src="https://beerpay.io/adhiraiyan/DeepLearningWithTF2.0/badge.svg" /></a>
 <a href="https://www.buymeacoffee.com/mmukesh"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 <a href="https://liberapay.com/mmukesh/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 <a href="https://paypal.me/mukeshmithrakumar" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-green.svg" alt="PayPal donate button" /></a>
@@ -101,7 +102,7 @@ I am also offering a limited time FOUR 1 hour 1 on 1 mentor sessions monthly to 
 <li>01.03 A Short History of Deep Learning</li>
 
 
-## [2. Applied Math and Machine Learning Basics (05.19.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/02.00-Linear-Algebra.ipynb)
+## [2. Linear Algebra (05.19.2019)](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/02.00-Linear-Algebra.ipynb)
 <li>02.01 Scalars, Vectors, Matrices and Tensors</li>
 <li>02.02 Multiplying Matrices and Vectors</li>
 <li>02.03 Identity and Inverse Matrices</li>

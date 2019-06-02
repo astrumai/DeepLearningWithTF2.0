@@ -2,6 +2,9 @@ name: deep-learning-with-tensorflow-2.0
 channels:
   - conda-forge
 dependencies:
-  - python=3.5
+  - python=3.6
+  - matplotlib
+  - pandas
   - pip:
-    - tensorflow-gpu==2.0.0-alpha0
+    - tf-nightly-2.0-preview
+    - tfp-nightly
