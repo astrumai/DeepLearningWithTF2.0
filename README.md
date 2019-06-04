@@ -1,6 +1,6 @@
 <p align="center"><img width="40%" src="logo/DLBookCover2.png" /></p>
 
-<h1 align="center" id="#DLwithTensorflow20">Deep Learning with Tensorflow 2.0</h1>
+<h1 id="DeepLearningWithTF20" align="center" >Deep Learning with Tensorflow 2.0</h1>
 
 <p align="center">
     <a href="https://colab.research.google.com/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/Index.ipynb">
@@ -91,7 +91,7 @@ I am also offering a limited time FOUR 1 hour 1 on 1 mentor sessions monthly to 
 
 
 <h2 align="center">Table of Contents</h2>
-<p align="right"><a href="#DLwithTensorflow20"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#DeepLearningWithTF20"><sup>▴ Back to top</sup></a></p>
 
 ## [0. Index](https://nbviewer.jupyter.org/github/adhiraiyan/DeepLearningWithTF2.0/blob/master/notebooks/Index.ipynb)
 
@@ -323,7 +323,7 @@ I am also offering a limited time FOUR 1 hour 1 on 1 mentor sessions monthly to 
 
 
 <h2 align="center">Acknowledgment</h2>
-<p align="right"><a href="#DLwithTensorflow20"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#DeepLearningWithTF20"><sup>▴ Back to top</sup></a></p>
 
 To cite the Deep Learning Book by GoodFellow, please use this bibtex entry:
 
@@ -344,4 +344,4 @@ To cite the Deep Learning with Tensorflow 2.0 Book by Mukesh Mithrakumar, please
 
 
 <h2 align="center">:speech_balloon: FAQ</h2>
-<p align="right"><a href="#DLwithTensorflow20"><sup>▴ Back to top</sup></a></p>
+<p align="right"><a href="#DeepLearningWithTF20"><sup>▴ Back to top</sup></a></p>
