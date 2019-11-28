@@ -36,9 +36,9 @@
 <h6 align="center">Made by Mukesh Mithrakumar • :milky_way: <a href="https://mukeshmithrakumar.com">https://mukeshmithrakumar.com</a></h6>
 
 
-This is the GitHub version of the Deep Learning with Tensorflow 2.0 by Mukesh Mithrakumar. Feel free to fork and watch for updates.
+This is the GitHub version of the Deep Learning with Tensorflow 2.0 by Mukesh Mithrakumar. Feel free to watch for updates, you can also follow me to get notified when I make a new post.
 
-Open Source runs on love, laughter and a whole lot of coffee. Consider buying me one if you find this content useful ☕️😉.
+<!-- Open Source runs on love, laughter and a whole lot of coffee. Consider buying me one if you find this content useful ☕️😉.
 
 <a href="https://www.buymeacoffee.com/mmukesh"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
@@ -46,7 +46,7 @@ You can also support my work via Patron:
 
 <span class="badge-patreon"><a href="https://www.patreon.com/bePatron?u=19664301"
     title="Donate to this project using Patreon"><img src="logo/patron button.png" width="175"
-    alt="Patreon donate button" /></a></span>
+    alt="Patreon donate button" /></a></span> -->
 
 <h2 align="center">:clipboard: Getting Started</h2>
 
@@ -75,7 +75,7 @@ Finally I would like to ask for your help, this Book is for you, and I would lov
 </a>
 
 <a href="https://twitter.com/MMithrakumar">
-    <img src="https://img.shields.io/badge/Twitter-9cf.svg?" alt="Facebook">
+    <img src="https://img.shields.io/badge/Twitter-orange.svg?" alt="Twitter">
 </a>
 
 <a href="https://www.instagram.com/adhiraiyan/">
@@ -335,7 +335,12 @@ To cite the Deep Learning Book by GoodFellow, please use this bibtex entry:
 
 To cite the Deep Learning with Tensorflow 2.0 Book by Mukesh Mithrakumar, please use this bibtex entry:
 ```
-
+@book{MukeshMithrakumar-2019,
+    title={Deep Learning with Tensorflow 2.0},
+    author={Mukesh Mithrakumar},
+    note={\url{https://github.com/adhiraiyan/DeepLearningWithTF2.0}},
+    year={2019}
+}
 ```
 
 
